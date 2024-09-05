@@ -2,7 +2,7 @@
 
 **Asignatura:** Aplicaciones Móviles para IoT  
 **Evaluación:** 1  
-**Estudiante:** Ricardo Epuyao
+**Estudiante:** Ricardo Epuyao          
 **Proyecto:** Convertidor de Unidades
 
 ---
