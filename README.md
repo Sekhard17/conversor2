@@ -2,7 +2,7 @@
 
 **Asignatura:** Aplicaciones Móviles para IoT  
 **Evaluación:** 1  
-**Estudiante:** Ignacio Sekhard  
+**Estudiante:** Ricardo Epuyao/Ignacio Sekhard
 **Proyecto:** Convertidor de Unidades
 
 ---
